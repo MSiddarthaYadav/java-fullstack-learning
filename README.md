@@ -61,7 +61,7 @@ This repository contains my Core Java learning programs, daily practice exercise
 
 ---
 
-## 📅 Daily Practice Breakdown
+## Daily Practice Breakdown
 
 ### Day 1 – Java Basics
 - Introduction to Java
@@ -292,7 +292,7 @@ All Core Java topics and practice programs completed successfully.
 
 ## 👨‍💻 Author
 
-Siddartha Yadav  
+M Siddartha Yadav  
 
 GitHub:  
 https://github.com/MSiddarthaYadav/java-fullstack-learning
